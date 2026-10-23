@@ -1,0 +1,1 @@
+{"extends":"./tsconfig.json","compilerOptions":{"outDir":"./out-tsc/spec","types":["jest","node"],"module":"commonjs","target":"ES2022"},"include":["src/**/*.spec.ts","src/**/*.d.ts"]}
